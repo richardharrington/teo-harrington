@@ -13,7 +13,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-          Welcome to the brand new website of <span className="fancy">Lord Teo Thomas Harrington</span>.
+            Welcome to <a href="teoharrington.com" target="_blank"><span className="fancy">teoharrington.com</span></a>.
           </h1>
           <h2>Your source for all things Lord Harrington.</h2>
           <SocialList />
