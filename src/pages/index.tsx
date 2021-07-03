@@ -16,7 +16,12 @@ export default function Index() {
             Welcome to <a href="#" target="_blank"><span className="fancy">teoharrington.com</span></a>.
           </h1>
           <h2>Your source for all things Lord Harrington.</h2>
-          <img src="teo-IMG_20210702_161825" />
+          <img
+            src="/images/teo-IMG_20210702_161825.jpg"
+            alt="pic of teo"
+            width={613}
+            height={348}
+          />
           <SocialList />
         </div>
       </div>
