@@ -43,6 +43,10 @@ export default function Index() {
           font-weight: 400;
           line-height: 1.25;
         }
+        img {
+          margin-top: 10px;
+          margin-bottom: 20px;
+        }
         .fancy {
           color: #15847d;
         }
